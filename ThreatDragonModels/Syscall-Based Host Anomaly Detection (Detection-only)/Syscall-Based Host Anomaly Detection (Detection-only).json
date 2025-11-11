@@ -1553,6 +1553,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 15,
             "ports": {
               "groups": {
                 "top": {
@@ -1636,7 +1637,6 @@
               ]
             },
             "id": "79814773-c8a8-4b9f-ba4c-bf16e1f3fc91",
-            "zIndex": 15,
             "data": {
               "type": "tm.Store",
               "name": "Model Artifacts",
@@ -1677,6 +1677,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 16,
             "ports": {
               "groups": {
                 "top": {
@@ -1760,7 +1761,6 @@
               ]
             },
             "id": "a2d87008-d794-4f24-8850-f2af41b48fec",
-            "zIndex": 16,
             "data": {
               "type": "tm.Store",
               "name": "Trace Store",
@@ -1798,6 +1798,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 17,
             "ports": {
               "groups": {
                 "top": {
@@ -1881,7 +1882,6 @@
               ]
             },
             "id": "9e325c54-1cb0-44fd-ad3f-c2276304af6f",
-            "zIndex": 17,
             "data": {
               "type": "tm.Actor",
               "name": "Static Baseline",
